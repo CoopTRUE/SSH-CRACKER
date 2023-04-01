@@ -17,7 +17,7 @@ cd SSH-CRACKER
 npm install # or yarn install or pnpm install
 # I recommend using pnpm
 
-# Change the ip.js file to whatever ip you want to crack
+# Change the ip in the config.js file to whichever ip you want to attack
 const ip = "123.456.789.123";
 ```
 
