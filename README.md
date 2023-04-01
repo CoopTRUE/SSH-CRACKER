@@ -8,7 +8,7 @@ SSH-CRACKER is a tool to crack SSH passwords using a wordlist.
 
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/CoopTRUE/SSH-CRACKER.git
 
 # Change the working directory
 cd SSH-CRACKER
